@@ -1,0 +1,3 @@
+3 >> TIMER: 841,5 ms
+2 >> TIMER: 764,3 ms
+1 >> TIMER: 766,7 ms

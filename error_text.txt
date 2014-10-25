@@ -1,0 +1,4 @@
+Exception in thread "main" java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1540)
+	at com.example.cassandra.CheckIfFileExists.CheckFile(CheckIfFileExists.java:15)
+	at com.example.cassandra.Start.main(Start.java:32)
